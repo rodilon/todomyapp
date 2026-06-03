@@ -1,6 +1,6 @@
 # MyTodoApp - Android Modern Architecture
 
-Este projeto é uma aplicação de lista de tarefas (To-Do List) desenvolvida com as ferramentas e práticas mais modernas do ecossistema Android em 2024. Ele serve como um guia prático para desenvolvedores que buscam se atualizar com **Jetpack Compose**, **Clean Architecture**, **Hilt** e **Room**.
+Este projeto é uma aplicação de lista de tarefas (To-Do List) desenvolvida com as ferramentas e práticas mais modernas do ecossistema Android em 2026. Ele serve como um guia prático para desenvolvedores que buscam se atualizar com **Jetpack Compose**, **Clean Architecture**, **Hilt** e **Room**.
 
 ## 🎯 Objetivo
 
